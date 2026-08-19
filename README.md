@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0001-two-sum) |
+| [0682-baseball-game](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0682-baseball-game) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -43,4 +45,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0141-linked-list-cycle) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
