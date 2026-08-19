@@ -28,11 +28,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0020-valid-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0682-baseball-game) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
