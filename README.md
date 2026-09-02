@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0001-two-sum) |
 | [0682-baseball-game](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0682-baseball-game) |
+| [0860-design-circular-queue](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0860-design-circular-queue) |
 ## Hash Table
 |  |
 | ------- |
@@ -16,6 +17,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0141-linked-list-cycle) |
+| [0860-design-circular-queue](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0860-design-circular-queue) |
 ## Math
 |  |
 | ------- |
@@ -51,4 +53,12 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0682-baseball-game) |
+## Design
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0860-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
