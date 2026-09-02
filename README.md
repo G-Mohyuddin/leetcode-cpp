@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0001-two-sum) |
 | [0682-baseball-game](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0682-baseball-game) |
 | [0860-design-circular-queue](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0860-design-circular-queue) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | [0020-valid-parentheses](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -55,6 +57,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0682-baseball-game) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
@@ -64,6 +67,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0860-design-circular-queue) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Counting
 |  |
 | ------- |
