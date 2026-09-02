@@ -2,16 +2,16 @@ class Solution {
 public:
     int firstUniqChar(string s) {
         queue<char> q;
-        map<char,int> hashmap;
+        int freq[26] = {0};
         int size=s.length();
         for(int i=0;i<size;++i){
             q.push(s[i]);
-            hashmap[s[i]]+=1;
+            freq[s[i]-'a']+=1;
         }
         for(int i=0;i<size;++i){
             char temp=q.front();
             q.pop();
-            if(hashmap[temp]==1){
+            if(freq[temp-'a']==1){
                 return i;
             }
         }
