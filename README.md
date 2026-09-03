@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0682-baseball-game) |
 | [0860-design-circular-queue](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0860-design-circular-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -56,6 +57,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
@@ -72,4 +74,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
