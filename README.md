@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0682-baseball-game](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0682-baseball-game) |
 | [0860-design-circular-queue](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0860-design-circular-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -13,6 +14,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0141-linked-list-cycle) |
 | [0387-first-unique-character-in-a-string](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
@@ -78,4 +80,5 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
