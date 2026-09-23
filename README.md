@@ -90,4 +90,12 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+## Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/2384-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2384-root-equals-sum-of-children](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/2384-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
