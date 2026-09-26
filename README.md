@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0031-next-permutation) |
 | [0054-spiral-matrix](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0682-baseball-game](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0682-baseball-game) |
@@ -54,6 +55,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0031-next-permutation) |
 | [0141-linked-list-cycle](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0141-linked-list-cycle) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Floyd's Cycle Finding Algorithm
