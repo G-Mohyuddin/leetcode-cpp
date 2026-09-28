@@ -60,6 +60,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0143-reorder-list) |
+| [0225-implement-stack-using-queues](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -95,10 +96,12 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0225-implement-stack-using-queues) |
 | [0860-design-circular-queue](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0860-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0860-design-circular-queue) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1802-number-of-students-unable-to-eat-lunch) |
