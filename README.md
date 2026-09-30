@@ -60,6 +60,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0234-palindrome-linked-list) |
@@ -124,12 +125,14 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0222-count-complete-tree-nodes) |
 | [2384-root-equals-sum-of-children](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0222-count-complete-tree-nodes) |
 | [2384-root-equals-sum-of-children](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search
@@ -152,4 +155,8 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0145-binary-tree-postorder-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
