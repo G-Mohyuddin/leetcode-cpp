@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0084-largest-rectangle-in-histogram) |
@@ -60,6 +61,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0145-binary-tree-postorder-traversal) |
@@ -78,6 +80,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0141-linked-list-cycle) |
@@ -164,9 +167,14 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0084-largest-rectangle-in-histogram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
