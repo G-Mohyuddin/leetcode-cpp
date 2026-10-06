@@ -10,6 +10,7 @@
 | [0054-spiral-matrix](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0088-merge-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0682-baseball-game) |
@@ -65,6 +66,7 @@
 | [0020-valid-parentheses](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0143-reorder-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0145-binary-tree-postorder-traversal) |
@@ -127,6 +129,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0085-maximal-rectangle) |
 ## Sliding Window
 |  |
 | ------- |
@@ -184,6 +187,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0085-maximal-rectangle) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -192,6 +196,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0042-trapping-rain-water) |
+| [0085-maximal-rectangle](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0085-maximal-rectangle) |
 ## Binary Search Tree
 |  |
 | ------- |
