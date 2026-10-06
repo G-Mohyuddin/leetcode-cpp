@@ -20,7 +20,7 @@ public:
         }
         return max_area;
     }
-    int lra(vector<int> h){
+    int lra(const vector<int>& h){
         int size=h.size();
         stack<int> s;
         int max_area=0;
