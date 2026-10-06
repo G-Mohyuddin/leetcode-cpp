@@ -11,16 +11,20 @@
  */
 class Solution {
 public:
-    void rev_preorder(TreeNode *r,TreeNode *&p){
-        if(r==NULL){return;}
-        rev_preorder(r->right,p);
-        rev_preorder(r->left,p);
-        r->right=p;
-        r->left=NULL;
-        p = r;
-    }
     void flatten(TreeNode* root) {
-        TreeNode* p=NULL;
-        rev_preorder(root,p);
+        TreeNode* cur =root;
+        while(cur!=NULL){
+            if(cur->left!=NULL){
+                TreeNode* run =cur->left;
+                while(run->right!=NULL){
+                    run=run->right;
+                }
+                run->right=cur->right;
+                cur->right=cur->left;
+                cur->left=NULL;
+            }
+            cur=cur->right;
+        }
+
     }
 };
