@@ -29,14 +29,14 @@ public:
             int ith_bit=(num>>i)&1;
             if(ith_bit==1){
                 if(temp->left){
-                    ans+=pow(2,i);
+                    ans+=1<<i;
                     temp=temp->left;
                 }else{
                     temp=temp->right;
                 }
             }else{
                 if(temp->right){
-                    ans+=pow(2,i);
+                    ans+=1<<i;
                     temp=temp->right;
                 }else{
                     temp=temp->left;
