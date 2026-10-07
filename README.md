@@ -12,6 +12,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0088-merge-sorted-array) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0735-asteroid-collision) |
@@ -28,6 +29,7 @@
 | [0141-linked-list-cycle](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0387-first-unique-character-in-a-string) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0560-subarray-sum-equals-k) |
 ## Linked List
 |  |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0222-count-complete-tree-nodes) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -205,4 +208,8 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
