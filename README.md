@@ -19,6 +19,7 @@
 | [0860-design-circular-queue](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0860-design-circular-queue) |
 | [0943-sum-of-subarray-minimums](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0943-sum-of-subarray-minimums) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -167,6 +168,7 @@
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0222-count-complete-tree-nodes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -212,4 +214,5 @@
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1826-maximum-xor-with-an-element-from-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1826-maximum-xor-with-an-element-from-array) |
 <!---LeetCode Topics End-->
