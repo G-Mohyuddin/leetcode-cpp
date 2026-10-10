@@ -148,6 +148,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0662-maximum-width-of-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -158,6 +159,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0662-maximum-width-of-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search
 |  |
@@ -182,6 +184,7 @@
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0199-binary-tree-right-side-view) |
+| [0662-maximum-width-of-binary-tree](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -189,6 +192,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0662-maximum-width-of-binary-tree](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0662-maximum-width-of-binary-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
