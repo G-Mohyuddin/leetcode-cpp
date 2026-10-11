@@ -12,6 +12,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0682-baseball-game) |
@@ -27,6 +28,7 @@
 | [0001-two-sum](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0142-linked-list-cycle-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0387-first-unique-character-in-a-string) |
@@ -143,6 +145,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0199-binary-tree-right-side-view) |
@@ -154,6 +157,7 @@
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0199-binary-tree-right-side-view) |
@@ -219,4 +223,8 @@
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1826-maximum-xor-with-an-element-from-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
