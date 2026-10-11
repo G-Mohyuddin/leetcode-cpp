@@ -19,6 +19,7 @@
 | [0735-asteroid-collision](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0735-asteroid-collision) |
 | [0860-design-circular-queue](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0860-design-circular-queue) |
 | [0943-sum-of-subarray-minimums](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0943-sum-of-subarray-minimums) |
+| [1036-rotting-oranges](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1036-rotting-oranges) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -137,6 +138,7 @@
 | [0054-spiral-matrix](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0085-maximal-rectangle) |
+| [1036-rotting-oranges](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1036-rotting-oranges) |
 ## Sliding Window
 |  |
 | ------- |
@@ -189,6 +191,7 @@
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0199-binary-tree-right-side-view) |
 | [0662-maximum-width-of-binary-tree](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0662-maximum-width-of-binary-tree) |
+| [1036-rotting-oranges](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
