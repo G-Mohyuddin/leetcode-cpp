@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0073-set-matrix-zeroes) |
@@ -171,6 +172,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
