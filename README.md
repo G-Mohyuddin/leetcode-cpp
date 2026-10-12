@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0073-set-matrix-zeroes) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0088-merge-sorted-array) |
@@ -173,6 +174,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0222-count-complete-tree-nodes) |
 ## Bit Manipulation
