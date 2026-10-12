@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0002-add-two-numbers) |
+| [0069-sqrtx](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0162-find-peak-element) |
@@ -249,4 +251,8 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
