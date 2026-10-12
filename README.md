@@ -25,6 +25,7 @@
 | [0907-koko-eating-bananas](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1036-rotting-oranges) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -184,6 +185,7 @@
 | [0162-find-peak-element](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0222-count-complete-tree-nodes) |
 | [0907-koko-eating-bananas](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0907-koko-eating-bananas) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/2047-find-a-peak-element-ii) |
 ## Bit Manipulation
