@@ -22,6 +22,7 @@
 | [0682-baseball-game](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0735-asteroid-collision) |
 | [0860-design-circular-queue](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0860-design-circular-queue) |
+| [0907-koko-eating-bananas](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0907-koko-eating-bananas) |
 | [0943-sum-of-subarray-minimums](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1036-rotting-oranges) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -181,6 +182,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0222-count-complete-tree-nodes) |
+| [0907-koko-eating-bananas](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0907-koko-eating-bananas) |
 | [2047-find-a-peak-element-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/2047-find-a-peak-element-ii) |
 ## Bit Manipulation
 |  |
