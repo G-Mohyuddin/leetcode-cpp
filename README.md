@@ -33,6 +33,7 @@
 | [1036-rotting-oranges](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1036-rotting-oranges) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1706-min-cost-to-connect-all-points](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1706-min-cost-to-connect-all-points) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2047-find-a-peak-element-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/2047-find-a-peak-element-ii) |
@@ -279,13 +280,31 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0200-number-of-islands) |
+| [1706-min-cost-to-connect-all-points](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1706-min-cost-to-connect-all-points) |
 ## Graph Theory
 |  |
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0877-shortest-path-visiting-all-nodes) |
+| [1706-min-cost-to-connect-all-points](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1706-min-cost-to-connect-all-points) |
 | [1916-find-center-of-star-graph](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1916-find-center-of-star-graph) |
 ## Bitmask
 |  |
 | ------- |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0877-shortest-path-visiting-all-nodes) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1706-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1706-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1706-min-cost-to-connect-all-points) |
+## BorÅ¯vka's Algorithm
+|  |
+| ------- |
+| [1706-min-cost-to-connect-all-points](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1706-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
