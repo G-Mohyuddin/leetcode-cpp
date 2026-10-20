@@ -23,6 +23,7 @@
 | [0162-find-peak-element](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0682-baseball-game) |
@@ -49,6 +50,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0142-linked-list-cycle-ii) |
+| [0268-missing-number](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0560-subarray-sum-equals-k) |
@@ -72,6 +74,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -206,6 +209,7 @@
 | [0162-find-peak-element](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0268-missing-number) |
 | [0907-koko-eating-bananas](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -215,6 +219,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0268-missing-number) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0877-shortest-path-visiting-all-nodes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0877-shortest-path-visiting-all-nodes) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -228,6 +233,7 @@
 | [0015-3sum](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0268-missing-number) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -309,7 +315,7 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1706-min-cost-to-connect-all-points) |
-## BorÃÂÃÂ¯vka's Algorithm
+## BorÃÂÃÂÃÂÃÂ¯vka's Algorithm
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1706-min-cost-to-connect-all-points) |
