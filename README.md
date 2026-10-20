@@ -276,4 +276,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
