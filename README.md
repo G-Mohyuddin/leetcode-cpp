@@ -38,6 +38,7 @@
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [2047-find-a-peak-element-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0387-first-unique-character-in-a-string) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0560-subarray-sum-equals-k) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0387-first-unique-character-in-a-string) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
 | ------- |
@@ -303,7 +306,7 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1706-min-cost-to-connect-all-points) |
-## BorÅ¯vka's Algorithm
+## BorÃÂ¯vka's Algorithm
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1706-min-cost-to-connect-all-points) |
