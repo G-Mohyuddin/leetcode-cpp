@@ -32,6 +32,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1036-rotting-oranges) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1706-min-cost-to-connect-all-points](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1706-min-cost-to-connect-all-points) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -163,6 +164,7 @@
 | [0200-number-of-islands](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [1036-rotting-oranges](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1036-rotting-oranges) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/2047-find-a-peak-element-ii) |
 ## Sliding Window
 |  |
@@ -206,6 +208,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0907-koko-eating-bananas](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/2047-find-a-peak-element-ii) |
 ## Bit Manipulation
@@ -306,7 +309,7 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1706-min-cost-to-connect-all-points) |
-## BorÃÂ¯vka's Algorithm
+## BorÃÂÃÂ¯vka's Algorithm
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1706-min-cost-to-connect-all-points) |
