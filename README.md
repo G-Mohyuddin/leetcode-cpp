@@ -22,6 +22,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0682-baseball-game) |
@@ -156,6 +157,7 @@
 | [0074-search-a-2d-matrix](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [1036-rotting-oranges](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1036-rotting-oranges) |
 | [2047-find-a-peak-element-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/2047-find-a-peak-element-ii) |
 ## Sliding Window
@@ -197,6 +199,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0907-koko-eating-bananas](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -264,6 +267,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0240-search-a-2d-matrix-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0240-search-a-2d-matrix-ii) |
 ## Newton's Method
 |  |
 | ------- |
