@@ -319,7 +319,7 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1706-min-cost-to-connect-all-points) |
-## BorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯vka's Algorithm
+## BorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯vka's Algorithm
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1706-min-cost-to-connect-all-points) |
