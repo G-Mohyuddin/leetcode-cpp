@@ -14,6 +14,7 @@
 | [0054-spiral-matrix](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0085-maximal-rectangle) |
@@ -120,6 +121,7 @@
 | [0031-next-permutation](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0142-linked-list-cycle-ii) |
@@ -232,6 +234,7 @@
 | ------- |
 | [0015-3sum](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0268-missing-number) |
 ## Breadth-First Search
@@ -315,8 +318,16 @@
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1706-min-cost-to-connect-all-points) |
-## BorÃÂÃÂÃÂÃÂ¯vka's Algorithm
+## BorÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¯vka's Algorithm
 |  |
 | ------- |
 | [1706-min-cost-to-connect-all-points](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/1706-min-cost-to-connect-all-points) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/G-Mohyuddin/leetcode-cpp/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
